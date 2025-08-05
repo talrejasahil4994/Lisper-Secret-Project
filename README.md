@@ -46,12 +46,12 @@ Lisper/
 ```bash
 git clone https://github.com/your-username/lisper.git
 cd lisper
-Install dependencies:
+Install dependencies and node modules:
 
 bash....
 
-npm install express axios
-Run the server:
+npm install 
+Run the server:to install all dependencies
 
 bash...
 
